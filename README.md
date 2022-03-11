@@ -7,3 +7,7 @@ Week-2 : Boot Loaders
 Week-3 : Process Creation and Management
 
 Week-4 : System Calls vs Procedures
+
+Week-5 : Scheduling Algorithms
+
+Week-6 : Signal Handling
