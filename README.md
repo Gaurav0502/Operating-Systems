@@ -10,6 +10,7 @@ Week-4 : System Calls vs Procedures
 
 Week-5 : Scheduling Algorithms
 
+<<<<<<< HEAD
 Week-6 : Banker's Algorithm
 
 Week-7 : Threads in C
