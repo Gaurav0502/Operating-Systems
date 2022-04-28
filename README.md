@@ -10,8 +10,12 @@ Week-4 : System Calls vs Procedures
 
 Week-5 : Scheduling Algorithms
 
-Week-6 : Banker's Algorithm
+Week-6 : Signal Handling
 
-Week-7 : Threads in C
+Week-7 : Banker's Algorithm
 
-Week-8 : Producer-Consumer Problem and Reader Writer Problem
+Week-8 : Threads in C
+
+Week-9 : Producer-Consumer Problem and Reader Writer Problem
+
+Week-10 : Page Replacement Algorithms
